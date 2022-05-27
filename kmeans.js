@@ -187,6 +187,7 @@ function kmean_step(punti, centroide)
     if( controllaCentroide(centroideo, centroide))
     {
         clearInterval(interval);
+        document.getElementById('stampa').innerHTML = "aggiornamento centroidi concluso";
         disegna(punti,centroide);
     }
     for(var i = 0 ; i < 3 ; i++)
