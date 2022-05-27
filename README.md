@@ -20,6 +20,10 @@ The project is divided in 3 files:
 # Run and Test
 To start the project you need to open the file `iris.html` from which it will be possible to view the final result, and finally by going to the browser console it will also be possible to view its accuracy
 
+ # Visual Result
+ ![Screenshot](iris.png) 
+ ![Screenshot](accuracy.png) 
+
 # People
 The people involved in the project are:
   * Riccardo Ventrici (https://github.com/v3ntri)
