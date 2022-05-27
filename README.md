@@ -21,8 +21,8 @@ The project is divided in 3 files:
 To start the project you need to open the file `iris.html` from which it will be possible to view the final result, and finally by going to the browser console it will also be possible to view its accuracy
 
  # Visual Result
- ![Screenshot](iris.png) 
- ![Screenshot](accuracy.png) 
+ ![Screenshot](iris.PNG) 
+ ![Screenshot](accuracy.PNG) 
 
 # People
 The people involved in the project are:
