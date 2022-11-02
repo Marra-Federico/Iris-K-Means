@@ -24,7 +24,7 @@ To start the project you need to open the file `iris.html` from which it will be
  ![Screenshot](iris.PNG)  ![Screenshot](accuracy.PNG) 
 
 
-# People
+# Contributors
 The people involved in the project are:
   * Riccardo Ventrici (https://github.com/v3ntri)
   * Marianna Mileo (https://github.com/merymylo)
